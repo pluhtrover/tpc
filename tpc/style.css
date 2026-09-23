@@ -9,3 +9,6 @@ h1{
 #negrito{
     text-decoration: underline;
 }
+.extra{
+    padding: 7% !important;
+}
